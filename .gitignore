@@ -1,1 +1,18 @@
-node_modules
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.log
+logs/
+data/
+output/
+node_modules/
+.DS_Store
